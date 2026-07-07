@@ -16,13 +16,17 @@
 git clone https://github.com/igor-sos/get-weather-in-terminal.git
 ```
 
+```bash
+cd ./get-weather-in-terminal
+```
+
 Установите зависимости:
 
 ```Bash
 pip install -r requirements.txt
 ```
 
-Как запустить:
+## Как запустить:
 
 ```Bash 
 python main.py
